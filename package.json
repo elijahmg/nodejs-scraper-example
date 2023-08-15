@@ -1,7 +1,7 @@
 {
   "name": "nodejs-scraper-example",
+  "description": "Simple express server scraper example",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
